@@ -1,5 +1,3 @@
-name: GitLab Stack
+name: Ghost BDOT COM
 description: |
-  Deploy GitLab Stack Using Rancher Compose + Docker Compose
-  version: 0.0.1-rancher1
-  
+  Deploy by BDOT GHOST  
