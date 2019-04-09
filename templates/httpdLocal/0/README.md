@@ -1,1 +1,1 @@
-# rancher-artifactory-stack
+# rancher-artifactory-stack HTTPF
