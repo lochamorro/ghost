@@ -1,5 +1,5 @@
 httpd:
   image: registry.bdot.com:5000/httpd
   ports:
-    - ${public_port}:2368
+    - ${public_port}:80
 
