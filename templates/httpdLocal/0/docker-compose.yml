@@ -1,0 +1,5 @@
+ghost:
+  image: registry.bdot.com:5000/httpd
+  ports:
+    - ${public_port}:2368
+

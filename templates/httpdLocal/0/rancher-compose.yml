@@ -1,0 +1,14 @@
+.catalog:
+  name: "Httpd BDOT"
+  version: "v2.4 Linux x 86"
+  description: "Servidor Apache v 2.4"
+  uuid: httpd
+  minimum_rancher_version: v0.51.0
+  questions:
+    - variable: public_port
+      description: "public port to access web server"
+      label: "Public Port"
+      required: true
+      default: "80"
+      type: "int"
+httpd:
